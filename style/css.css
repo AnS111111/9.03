@@ -1,0 +1,28 @@
+.header {
+    background-color: rgb(245, 220, 215);
+    border: 1px solid rgb(185, 97, 97);
+    padding: 5px;
+}
+
+.main {
+    background-color: rgb(215, 244, 248);
+    color: azure;
+    border: 1px solid rgb(100, 113, 233);
+    padding: 5px;
+    height: 500px;
+}
+
+.footer {
+    background-color: rgb(251, 255, 212);
+    padding: 5px;
+    border: 1px solid black;
+}
+
+a {
+    color: rgb(79, 40, 97);
+}
+
+p {
+
+    color: rgb(29, 36, 99);
+    }
